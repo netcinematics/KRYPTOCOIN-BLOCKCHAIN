@@ -3,6 +3,8 @@ JavaScript Blockchain (Proof of Work) template
 
 Learning BLOCKCHAIN, with variations...
 
+Here is the VIDEO: https://www.youtube.com/watch?v=zVqczFZr124
+
 1. a basic Block class and a BlockChain class
    //npm install --save crypto-js    //for sha256 hash of block
    //node main
