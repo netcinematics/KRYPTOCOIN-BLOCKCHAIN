@@ -1,4 +1,4 @@
-# COZMOCOIN-BLOCKCHAIN
+# KRYPTOCOIN-BLOCKCHAIN
 JavaScript Blockchain (Proof of Work) template
 
 Learning BLOCKCHAIN, with variations...
